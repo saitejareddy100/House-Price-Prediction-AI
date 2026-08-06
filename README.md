@@ -285,3 +285,15 @@ This project is licensed under the MIT License.
 - Pandas
 - Plotly
 - NumPy
+- OUTPUT IMAGES-
+- <img width="1897" height="970" alt="image" src="https://github.com/user-attachments/assets/a9f61734-40ed-47da-a38a-d3c30a04b1cb" />
+<img width="1875" height="863" alt="image" src="https://github.com/user-attachments/assets/0bde9b89-1ef4-40c5-af74-76faa52ba311" />
+<img width="1876" height="911" alt="image" src="https://github.com/user-attachments/assets/14d4853b-6042-434e-b512-885a65788ea0" />
+<img width="1547" height="657" alt="image" src="https://github.com/user-attachments/assets/e1137e0c-471b-4618-8e19-60c72c187dea" />
+<img width="1477" height="835" alt="image" src="https://github.com/user-attachments/assets/8a006433-0c1d-4e67-850d-49a677ba3de4" />
+<img width="1861" height="912" alt="image" src="https://github.com/user-attachments/assets/59076fab-0f44-4ebf-a977-ca0482aa9925" />
+
+
+
+
+
